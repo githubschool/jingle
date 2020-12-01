@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck, captain!"
 ---
 
-Caption here
+I'm a Ninja! ※\(^o^)/※
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
